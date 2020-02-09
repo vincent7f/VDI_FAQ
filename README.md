@@ -1,5 +1,9 @@
 # VDI_FAQ
 
+* 这里有各种文件下载，包括Citrix Workspace，Avast，Chrome。
+链接: https://pan.baidu.com/s/1hwnWgdK5w_5NTCx-ZiACBw 提取码: qnyq
+
+
 ## 连接
 
 浏览器打开链接XXX（见微信群中的简介文档）
@@ -7,8 +11,7 @@
 * PASSCODE 是VPN 密码
 * PASSWORD 是 员工号AD 密码
 
-* 这里有各种文件下载
-链接: https://pan.baidu.com/s/1hwnWgdK5w_5NTCx-ZiACBw 提取码: qnyq
+
 
 ## Windows 10
 
