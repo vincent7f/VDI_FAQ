@@ -7,6 +7,9 @@
 * PASSCODE 是VPN 密码
 * PASSWORD 是 员工号AD 密码
 
+* 这里有各种文件下载
+链接: https://pan.baidu.com/s/1hwnWgdK5w_5NTCx-ZiACBw 提取码: qnyq
+
 ## Windows 10
 
 Windows升级至最新。
@@ -16,11 +19,12 @@ Windows升级至最新。
 ## Mac
 
 ### 基本要求
-MAC OS需要更新至最新。
-浏览器要更新至最新。
-必须要安装杀毒软件。免费的有Avast。
+* MAC OS需要更新至最新。
+* 浏览器要更新至最新。
+* 必须要安装杀毒软件。免费的有Avast。
 Avast的病毒库更新文件：
 https://www.avast.com/download-update
+
 
 ## iPad
 
