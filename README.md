@@ -19,6 +19,8 @@ Windows升级至最新。
 MAC OS需要更新至最新。
 浏览器要更新至最新。
 必须要安装杀毒软件。免费的有Avast。
+Avast的病毒库更新文件：
+https://www.avast.com/download-update
 
 ## iPad
 
