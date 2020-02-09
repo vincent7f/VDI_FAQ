@@ -1,0 +1,1 @@
+Citrix Workspace for MAC
